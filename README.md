@@ -9,7 +9,7 @@ Here are some points about my profile:
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with ... not now.
 - 💬 Ask me about React, JS, CSS
-- 📫 How to reach me: Email me farukhrana14@gmail.com
+- 📫 How to reach me: farukh-portfolio.web.app
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
